@@ -6,9 +6,6 @@ This repository contains a simple web application that allows users to move a ba
 - Move the ball using arrow keys.
 - Simple and intuitive user interface.
 
-## Live Demo
-Access the live application [here](https://venkyrock143.github.io/Move-the-ball/).
-
 ## File Structure
 - `index.html`: Main HTML file.
 - `styles.css`: Styling for the application.
